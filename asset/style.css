@@ -148,6 +148,9 @@ body{
     transition: 0.5s;
     text-decoration: none;
 }
+.highlight-text a:hover{
+    letter-spacing: 4px;
+}
 .highlight-image{
     margin-left: 0px;
 }
